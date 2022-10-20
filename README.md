@@ -1,6 +1,12 @@
 ### Hi there 👋
 Im nada !
 - 🔭 I’m currently working on code that extracts heart rate from images 
+- 🌱 I’m currently learning Python , Data Science , Machine Learning & Deep Learning
+- 👯 I’m looking to collaborate on Wellness Aps
+- 💬 Lets Talk about Fem-tech
+ - 📫 Reach me on: nada.haboudal@gmail.com 
+
+
 
 
 <!--
